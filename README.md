@@ -41,5 +41,5 @@ Analyze the impact of influential users on sentiment trends.
 Combine multiple features for in-depth insights.
 
 For example, analyze sentiment trends over time or across different platforms and countries.
-
+![image](https://github.com/SahaniNilesh/FUTURE_DS_01_Social-Media-Sentiments-Analysis/blob/main/Social%20Media%20Sentiments%20Analysis.ipynb)
 
